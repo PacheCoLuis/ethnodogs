@@ -5,4 +5,4 @@ This repository contains a sample of datasets compiled by participants in the pr
 
 The series of R scripts included here perform the analysis that sustains the results and discussion of the manuscript “An ethnography of dogs in Belize” (short title). Scripts can be run separately, as each one successively runs the previous source.
 
-Suggestions and edits to fix code or analytical procedures are welcome l.pacheco.cobos@gmail.com or luipacheco@uv.mx
+Make sure to keep Code and Data files in the same folder when running the analysis. Suggestions and edits to firx or improve code and analytical procedures are welcome l.pacheco.cobos@gmail.com or luipacheco@uv.mx
